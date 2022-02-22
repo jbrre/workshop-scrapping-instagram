@@ -2,8 +2,6 @@
 ## Installation
 Pour ce Workshop, vous aurez tout d'abord besoin de Python3 et son gestionnaire de paquets, pip3.
 
-    man google
-
 Une fois tout ceci installé, devrez ensuite installer Instaloader depuis pip3.
 
     pip3 install instaloader
