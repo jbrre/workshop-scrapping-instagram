@@ -35,7 +35,7 @@ Vu que vous semblez maîtriser un peu mieux ce logiciel, j'aurais de vous besoin
 https://www.instagram.com/bde_epitech_toulouse/
 
 ### Exercice 5 : Un code beaucoup plus complet
-Il est temps de passer à de vraies situations de scrapping ! Une agence de marketing cherche une influenceuse pour promouvoir des produits beauté, et cherche un profil suivi majoritairement par des femmes. Faites un script qui permet de récupérer les noms d'utilisateur et nom affiché (full_name) des followers d'un compte ou des likes d'une photo, et comparez-là à une namelist afin d'obtenir un pourcentage.
+Il est temps de passer à de vraies situations de scrapping ! Une agence de marketing cherche un influenceur pour promouvoir des produits, et cherche un profil suivi majoritairement par des hommes. Faites un script qui permet de récupérer les noms d'utilisateur et nom affiché (full_name) des followers d'un compte ou des likes d'une photo, et comparez-là à une namelist afin d'obtenir un pourcentage.
 ⚠️*les namelists étant en Anglais, je vous conseille vivement de choisir un profil suivi majoritairement par des Anglophones pour ce test*
 ![rendu attendu](https://i.imgur.com/fL0Hdt7.png)
 
